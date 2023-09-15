@@ -1,5 +1,3 @@
-# CounterApp
-
 # Counter App README
 
 This is a simple Counter App created using HTML, CSS, and JavaScript. The application allows users to increment and decrement a counter value displayed on the screen. It utilizes popular web development libraries such as Tailwind CSS for styling and Font Awesome for icons. This README file provides an overview of the project and instructions on how to use it.
