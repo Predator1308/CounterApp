@@ -30,3 +30,35 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone <repository-url>
+
+## Usage
+
+Once you have the Counter App open in your web browser, you can use it as follows:
+
+- **Increment**: Click the "plus" button to increment the counter value by 1.
+
+- **Decrement**: Click the "minus" button to decrement the counter value by 1.
+
+The current counter value is displayed in the center of the white container.
+
+## Contributing
+
+If you'd like to contribute to this project, please follow these guidelines:
+
+1. Fork the repository to your GitHub account.
+
+2. Create a new branch for your feature or bug fix.
+
+3. Make your changes and commit them with clear and concise commit messages.
+
+4. Push your changes to your forked repository.
+
+5. Create a pull request to the original repository's `main` branch, explaining the purpose of your changes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Feel free to modify, distribute, and use this code in your projects, and don't forget to provide proper attribution if you find it useful.
+
+Thank you for using the Counter App!
