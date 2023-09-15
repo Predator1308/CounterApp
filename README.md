@@ -31,6 +31,9 @@ To get started with this project, follow these steps:
    ```bash
    git clone <repository-url>
 
+2. Open the project directory in your code editor.
+3. Open the index.html file in your web browser or host it on a local server.
+
 ## Usage
 
 Once you have the Counter App open in your web browser, you can use it as follows:
@@ -55,10 +58,3 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 5. Create a pull request to the original repository's `main` branch, explaining the purpose of your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to modify, distribute, and use this code in your projects, and don't forget to provide proper attribution if you find it useful.
-
-Thank you for using the Counter App!
